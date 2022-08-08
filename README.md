@@ -6,8 +6,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuckTheGamers&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
  
- 
- 
   ### Pra saber mais sobre me segue nas redes abaixo!
  
 <div> 
