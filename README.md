@@ -8,10 +8,14 @@
 </div>
 
 # Bem vindo ao meu perfil
-  Atualmente estou estudando e desenvolvendo projetos, com isso sempre procurando me aperfeiçoar para alcançar os objetivos que eu desejo!
+
+  <p align="left">Atualmente estou estudando e desenvolvendo projetos, 
+  com isso sempre procurando me aperfeiçoar para alcançar os objetivos que eu desejo!</p>
+  <img src="https://cdn.discordapp.com/attachments/371723845272600577/1061064744611618976/programmer-programming.gif" align="right">
+
 
 ## Status GitHub
- <div>
+ <div >
   <a href="https://github.com/LuckTheGamers">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuckTheGamers&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuckTheGamers&layout=compact&langs_count=6&theme=dark"/>
