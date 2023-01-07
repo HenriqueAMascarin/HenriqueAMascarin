@@ -17,6 +17,6 @@
 ## Status GitHub
  <div >
   <a href="https://github.com/LuckTheGamers">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuckTheGamers&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuckTheGamers&layout=compact&langs_count=6&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuckTheGamers&show_icons=true&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuckTheGamers&layout=compact&langs_count=6&theme=radical"/>
 </div>
