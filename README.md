@@ -9,9 +9,9 @@
 
 # Bem vindo ao meu perfil
 
-  <p align="left">Atualmente estou estudando e desenvolvendo projetos, 
-  com isso sempre procurando me aperfeiçoar para alcançar os objetivos que eu desejo!</p>
-  <img src="https://cdn.discordapp.com/attachments/371723845272600577/1061064744611618976/programmer-programming.gif" align="right">
+  <p>Atualmente estou estudando e desenvolvendo projetos, com isso sempre</p>
+  <p>procurando me aperfeiçoar para alcançar os objetivos que eu desejo!</p>
+  <img src="https://cdn.discordapp.com/attachments/371723845272600577/1061064744611618976/programmer-programming.gif"  width="300px">
 
 
 ## Status GitHub
