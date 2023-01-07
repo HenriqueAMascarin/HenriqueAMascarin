@@ -9,8 +9,8 @@
 
 # Bem vindo ao meu perfil
 
-  <h2>Atualmente estou estudando e desenvolvendo projetos, com isso sempre</h2>
-  <h2>procurando me aperfeiçoar para alcançar os objetivos que eu desejo!</h2>
+  <p>Atualmente estou estudando e desenvolvendo projetos, com isso sempre</p>
+  <p>procurando me aperfeiçoar para alcançar os objetivos que eu desejo!</p>
   <img src="https://cdn.discordapp.com/attachments/371723845272600577/1061064744611618976/programmer-programming.gif"  width="300px">
 
 
